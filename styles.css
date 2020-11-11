@@ -13,6 +13,16 @@ body {
   padding-bottom: 2em;
 }
 
+a {
+  color: rgb(255, 149, 10);
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: rgb(255, 149, 10);
+}
+
 h1 {
   margin: 3em 0 2em 0;
 }
